@@ -7,7 +7,7 @@ greeting = "Hello, my name is " + robot_name + ". I am here to take over the wor
 
 print(greeting)
 
-
+exit() # Remove this line to continue
 
 # A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
 #
@@ -25,12 +25,13 @@ myvar = "SLHS"
 my_var = "SLHS"
 _my_var = "SLHS"
 myVar = "SLHS"
-MYVAR = "SLHS"
 myvar2 = "SLHS" 
+MYVAR = "SLHS"  # All UPPERCASE traditionnaly for constants
+PI = 3.141592653589793
 
 
 # Illegal variable names:
 
-2myvar = "SLHS"
-my-var = "SLHS"
-my var = "SLHS" 
+# 2myvar = "SLHS"
+# my-var = "SLHS"
+# my var = "SLHS" 
