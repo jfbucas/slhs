@@ -1,4 +1,4 @@
-# 9. Christmas Lights Animation
+# 19. Christmas Lights Animation (3pts)
 # 
 # Create a simple animation of blinking Christmas lights using the time module. Alternate between:
 # 

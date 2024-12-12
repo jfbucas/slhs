@@ -1,4 +1,4 @@
-# 4. Create a Countdown Timer
+# 14. Create a Countdown Timer (2pts)
 # 
 # Write a program that takes the number of days left until Christmas and creates a countdown. For each day, print:
 # 

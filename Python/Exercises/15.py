@@ -1,4 +1,4 @@
-# 5. Guess the Christmas Song
+# 15. Guess the Christmas Song (4pts)
 # 
 # Create a game where the user has to guess a Christmas song from its scrambled title. Example:
 # 

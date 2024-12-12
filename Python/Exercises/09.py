@@ -1,4 +1,4 @@
-# 9. Countdown to Christmas
+# 9. Countdown to Christmas (2pts)
 # 
 # Write a program that asks how many days are left until Christmas and prints a countdown, like this:
 # 
